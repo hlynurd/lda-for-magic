@@ -1,0 +1,570 @@
+Archetype 0 
+0.149 Plains
+0.064 Path to Exile
+0.049 Thalia, Guardian of Thraben
+0.048 Ghost Quarter
+0.047 Restoration Angel
+0.046 Aether Vial
+0.044 Flickerwisp
+0.041 Blade Splicer
+0.039 Thraben Inspector
+0.036 Stony Silence
+0.034 Tectonic Edge
+0.033 Leonin Arbiter
+0.032 Rest in Peace
+0.028 Horizon Canopy
+0.022 Leyline of Sanctity
+0.020 Mirran Crusader
+
+
+Archetype 1 
+0.078 Mountain
+0.060 Primeval Titan
+0.046 Wooded Foothills
+0.045 Search for Tomorrow
+0.045 Sakura-Tribe Elder
+0.044 Valakut, the Molten Pinnacle
+0.041 Stomping Ground
+0.039 Scapeshift
+0.036 Summoner's Pact
+0.035 Farseek
+0.034 Forest
+0.034 Relic of Progenitus
+0.033 Lightning Bolt
+0.032 Cinder Glade
+0.029 Anger of the Gods
+0.028 Obstinate Baloth
+
+
+Archetype 2 
+0.055 Knight of the Reliquary
+0.054 Noble Hierarch
+0.054 Windswept Heath
+0.052 Collected Company
+0.048 Path to Exile
+0.045 Birds of Paradise
+0.040 Forest
+0.035 Voice of Resurgence
+0.031 Ghost Quarter
+0.029 Temple Garden
+0.025 Spell Queller
+0.024 Courser of Kruphix
+0.023 Plains
+0.022 Scavenging Ooze
+0.021 Selfless Spirit
+0.020 Wooded Foothills
+
+
+Archetype 3 
+0.060 Insolent Neonate
+0.055 Cathartic Reunion
+0.054 Faithless Looting
+0.051 Narcomoeba
+0.051 Stinkweed Imp
+0.051 Prized Amalgam
+0.051 Bloodghast
+0.046 Life from the Loam
+0.042 Collective Brutality
+0.041 Copperline Gorge
+0.037 Conflagrate
+0.031 Gemstone Mine
+0.029 Golgari Thug
+0.027 Darkblast
+0.026 Lightning Axe
+0.026 Dakmor Salvage
+
+
+Archetype 4 
+0.065 Simian Spirit Guide
+0.043 Street Wraith
+0.042 Blackcleave Cliffs
+0.041 Monstrous Carabid
+0.041 Violent Outburst
+0.041 Demonic Dread
+0.041 Horror of the Broken Lands
+0.038 Fulminator Mage
+0.038 Beast Within
+0.034 Shrine of Burning Rage
+0.034 Ricochet Trap
+0.031 Living End
+0.031 Ingot Chewer
+0.029 Bloodstained Mire
+0.027 Leyline of the Void
+0.027 Chained to the Rocks
+
+
+Archetype 5 
+0.061 Island
+0.037 Urza's Power Plant
+0.037 Urza's Tower
+0.037 Expedition Map
+0.037 Urza's Mine
+0.035 Condescend
+0.033 Thirst for Knowledge
+0.022 Grove of the Burnwillows
+0.022 Repeal
+0.020 Wurmcoil Engine
+0.020 Talisman of Dominance
+0.020 Spatial Contortion
+0.019 Remand
+0.019 Polluted Delta
+0.018 Mesmeric Orb
+0.018 Glimpse the Unthinkable
+
+
+Archetype 6 
+0.263 Swamp
+0.059 Duress
+0.052 Raven's Crime
+0.041 Gifted Aetherborn
+0.040 Mutavault
+0.039 Ghost Quarter
+0.033 Tormod's Crypt
+0.032 Inquisition of Kozilek
+0.031 Smallpox
+0.030 Smuggler's Copter
+0.030 Delirium Skeins
+0.030 Shrieking Affliction
+0.030 The Rack
+0.022 Wrench Mind
+0.019 Sign in Blood
+0.019 Gurmag Angler
+
+
+Archetype 7 
+0.065 Island
+0.056 Path to Exile
+0.052 Flooded Strand
+0.051 Celestial Colonnade
+0.048 Supreme Verdict
+0.047 Spreading Seas
+0.040 Serum Visions
+0.039 Cryptic Command
+0.039 Plains
+0.033 Snapcaster Mage
+0.033 Field of Ruin
+0.029 Stony Silence
+0.026 Glacial Fortress
+0.024 Mana Leak
+0.024 Negate
+0.024 Detention Sphere
+
+
+Archetype 8 
+0.064 Polluted Delta
+0.050 Snapcaster Mage
+0.045 Flooded Strand
+0.043 Island
+0.041 Opt
+0.039 Mana Leak
+0.036 Fatal Push
+0.035 Lingering Souls
+0.033 Cryptic Command
+0.032 Watery Grave
+0.022 Vendilion Clique
+0.022 Darkslick Shores
+0.021 Ceremonious Rejection
+0.021 Collective Brutality
+0.020 Spell Snare
+0.019 Creeping Tar Pit
+
+
+Archetype 9 
+0.049 Monastery Swiftspear
+0.048 Lightning Helix
+0.045 Lightning Bolt
+0.044 Goblin Guide
+0.042 Eidolon of the Great Revel
+0.041 Boros Charm
+0.040 Lava Spike
+0.040 Wooded Foothills
+0.040 Rift Bolt
+0.038 Bloodstained Mire
+0.038 Searing Blaze
+0.037 Skullcrack
+0.034 Mountain
+0.032 Inspiring Vantage
+0.028 Arid Mesa
+0.027 Sacred Foundry
+
+
+Archetype 10 
+0.069 Nahiri, the Harbinger
+0.049 Windswept Heath
+0.034 Eldrazi Displacer
+0.034 Noble Hierarch
+0.031 Path to Exile
+0.030 Ancient Stirrings
+0.029 Leyline of Sanctity
+0.027 Reality Smasher
+0.027 Eldrazi Temple
+0.027 Thought-Knot Seer
+0.025 Eldrazi Skyspawner
+0.025 Drowner of Hope
+0.024 Rest in Peace
+0.021 Birds of Paradise
+0.021 Engineered Explosives
+0.019 Cavern of Souls
+
+
+Archetype 11 
+0.053 Cavern of Souls
+0.053 Unclaimed Territory
+0.053 Champion of the Parish
+0.053 Thalia's Lieutenant
+0.053 Kitesail Freebooter
+0.053 Meddling Mage
+0.052 Reflector Mage
+0.051 Thalia, Guardian of Thraben
+0.050 Noble Hierarch
+0.047 Mantis Rider
+0.045 Ancient Ziggurat
+0.044 Aether Vial
+0.039 Mayor of Avabruck
+0.033 Windswept Heath
+0.026 Izzet Staticaster
+0.024 Horizon Canopy
+
+
+Archetype 12 
+0.068 Path to Exile
+0.050 Razorverge Thicket
+0.048 Windswept Heath
+0.044 Daybreak Coronet
+0.044 Rancor
+0.044 Ethereal Armor
+0.044 Leyline of Sanctity
+0.044 Slippery Bogle
+0.044 Gladecover Scout
+0.044 Kor Spiritdancer
+0.039 Wooded Foothills
+0.035 Temple Garden
+0.033 Spider Umbra
+0.030 Rest in Peace
+0.028 Stony Silence
+0.022 Horizon Canopy
+
+
+Archetype 13 
+0.055 Blinkmoth Nexus
+0.055 Darksteel Citadel
+0.053 Mox Opal
+0.053 Signal Pest
+0.053 Inkmoth Nexus
+0.053 Arcbound Ravager
+0.053 Cranial Plating
+0.053 Ornithopter
+0.052 Springleaf Drum
+0.050 Vault Skirge
+0.049 Steel Overseer
+0.046 Etched Champion
+0.040 Galvanic Blast
+0.034 Master of Etherium
+0.033 Spire of Industry
+0.031 Memnite
+
+
+Archetype 14 
+0.068 Polluted Delta
+0.060 Bloodstained Mire
+0.059 Death's Shadow
+0.054 Street Wraith
+0.053 Fatal Push
+0.050 Stubborn Denial
+0.049 Thoughtseize
+0.043 Thought Scour
+0.042 Serum Visions
+0.040 Snapcaster Mage
+0.039 Scalding Tarn
+0.029 Watery Grave
+0.028 Terminate
+0.026 Inquisition of Kozilek
+0.025 Collective Brutality
+0.025 Ceremonious Rejection
+
+
+Archetype 15 
+0.069 Wooded Foothills
+0.050 Forest
+0.039 Windswept Heath
+0.039 Nykthos, Shrine to Nyx
+0.035 Burning-Tree Emissary
+0.034 Arbor Elf
+0.034 Utopia Sprawl
+0.027 Garruk Wildspeaker
+0.027 Stomping Ground
+0.024 Tarmogoyf
+0.023 Blood Moon
+0.020 Kitchen Finks
+0.020 Narnam Renegade
+0.020 Oath of Nissa
+0.017 Atarka's Command
+0.017 Lightning Bolt
+
+
+Archetype 16 
+0.139 Mountain
+0.046 Ensnaring Bridge
+0.042 Ancient Stirrings
+0.041 Glimmervoid
+0.041 Mox Opal
+0.040 Codex Shredder
+0.040 Whir of Invention
+0.040 Lantern of Insight
+0.040 Spire of Industry
+0.035 Mishra's Bauble
+0.034 Thoughtseize
+0.034 Darkslick Shores
+0.031 Pithing Needle
+0.028 Leyline of Sanctity
+0.027 Botanical Sanctum
+0.025 Inquisition of Kozilek
+
+
+Archetype 17 
+0.077 Island
+0.065 Lightning Bolt
+0.058 Remand
+0.054 Scalding Tarn
+0.048 Snapcaster Mage
+0.040 Serum Visions
+0.039 Steam Vents
+0.034 Through the Breach
+0.034 Opt
+0.033 Blood Moon
+0.033 Sulfur Falls
+0.031 Dispel
+0.031 Cryptic Command
+0.027 Emrakul, the Aeons Torn
+0.024 Anger of the Gods
+0.023 Polluted Delta
+
+
+Archetype 18 
+0.056 Lightning Bolt
+0.055 Path to Exile
+0.055 Flooded Strand
+0.054 Scalding Tarn
+0.054 Snapcaster Mage
+0.052 Spell Queller
+0.050 Celestial Colonnade
+0.046 Serum Visions
+0.043 Lightning Helix
+0.041 Cryptic Command
+0.036 Island
+0.034 Geist of Saint Traft
+0.034 Logic Knot
+0.027 Steam Vents
+0.027 Hallowed Fountain
+0.026 Electrolyze
+
+
+Archetype 19 
+0.059 Concealed Courtyard
+0.058 Tidehollow Sculler
+0.056 Path to Exile
+0.052 Caves of Koilos
+0.049 Thought-Knot Seer
+0.049 Eldrazi Temple
+0.046 Ghost Quarter
+0.045 Aether Vial
+0.043 Eldrazi Displacer
+0.043 Leonin Arbiter
+0.042 Thalia, Guardian of Thraben
+0.040 Flickerwisp
+0.039 Wasteland Strangler
+0.033 Stony Silence
+0.028 Rest in Peace
+0.028 Shambling Vent
+
+
+Archetype 20 
+0.072 Faithless Looting
+0.058 Cathartic Reunion
+0.058 Bloodstained Mire
+0.057 Hollow One
+0.056 Street Wraith
+0.052 Leyline of the Void
+0.042 Swamp
+0.035 Mountain
+0.035 Blood Crypt
+0.034 Vengevine
+0.034 Griselbrand
+0.034 Goryo's Vengeance
+0.031 Lightning Bolt
+0.029 Ancient Grudge
+0.029 Gurmag Angler
+0.025 Night's Whisper
+
+
+Archetype 21 
+0.099 Island
+0.055 Mutavault
+0.050 Ceremonious Rejection
+0.050 Spreading Seas
+0.048 Master of the Pearl Trident
+0.048 Silvergill Adept
+0.048 Lord of Atlantis
+0.048 Aether Vial
+0.044 Merrow Reejerey
+0.044 Harbinger of the Tides
+0.044 Relic of Progenitus
+0.040 Botanical Sanctum
+0.038 Cavern of Souls
+0.032 Kumena's Speaker
+0.032 Merfolk Branchwalker
+0.032 Cursecatcher
+
+
+Archetype 22 
+0.059 Misty Rainforest
+0.058 Collected Company
+0.052 Noble Hierarch
+0.051 Windswept Heath
+0.050 Devoted Druid
+0.050 Spell Queller
+0.048 Chord of Calling
+0.046 Path to Exile
+0.039 Vizier of Remedies
+0.038 Unified Will
+0.037 Birds of Paradise
+0.036 Eternal Witness
+0.036 Duskwatch Recruiter
+0.029 Breeding Pool
+0.029 Forest
+0.025 Burrenton Forge-Tender
+
+
+Archetype 23 
+0.056 Liliana of the Veil
+0.056 Inquisition of Kozilek
+0.054 Verdant Catacombs
+0.054 Fatal Push
+0.052 Tarmogoyf
+0.052 Thoughtseize
+0.046 Lingering Souls
+0.036 Marsh Flats
+0.036 Collective Brutality
+0.036 Fulminator Mage
+0.028 Swamp
+0.025 Abrupt Decay
+0.025 Blooming Marsh
+0.025 Overgrown Tomb
+0.021 Surgical Extraction
+0.019 Mishra's Bauble
+
+
+Archetype 24 
+0.055 Blood Moon
+0.051 Lightning Bolt
+0.049 Bloodstained Mire
+0.048 Blackcleave Cliffs
+0.047 Forest
+0.034 Terminate
+0.032 Kolaghan's Command
+0.028 Wooded Foothills
+0.024 Inquisition of Kozilek
+0.024 Anger of the Gods
+0.023 Goblin Rabblemaster
+0.020 Blood Crypt
+0.020 Stomping Ground
+0.019 Raging Ravine
+0.018 Chandra, Torch of Defiance
+0.018 Thoughtseize
+
+
+Archetype 25 
+0.052 Chord of Calling
+0.052 Windswept Heath
+0.052 Kitchen Finks
+0.051 Collected Company
+0.050 Birds of Paradise
+0.049 Verdant Catacombs
+0.043 Devoted Druid
+0.041 Vizier of Remedies
+0.039 Eternal Witness
+0.032 Noble Hierarch
+0.032 Path to Exile
+0.030 Temple Garden
+0.029 Forest
+0.025 Gavony Township
+0.024 Duskwatch Recruiter
+0.023 Overgrown Tomb
+
+
+Archetype 26 
+0.053 Urza's Mine
+0.053 Expedition Map
+0.053 Urza's Tower
+0.053 Urza's Power Plant
+0.042 Walking Ballista
+0.038 Thought-Knot Seer
+0.036 Karn Liberated
+0.036 Relic of Progenitus
+0.034 Chalice of the Void
+0.034 Matter Reshaper
+0.034 Eldrazi Temple
+0.034 Reality Smasher
+0.028 Ghost Quarter
+0.025 Warping Wail
+0.021 Dismember
+0.021 Wurmcoil Engine
+
+
+Archetype 27 
+0.054 Noble Hierarch
+0.053 Inkmoth Nexus
+0.053 Glistener Elf
+0.052 Vines of Vastwood
+0.052 Mutagenic Growth
+0.051 Might of Old Krosa
+0.049 Blighted Agent
+0.043 Blossoming Defense
+0.041 Become Immense
+0.040 Groundswell
+0.036 Windswept Heath
+0.030 Verdant Catacombs
+0.029 Spell Pierce
+0.027 Misty Rainforest
+0.026 Breeding Pool
+0.026 Forest
+
+
+Archetype 28 
+0.051 Serum Visions
+0.048 Sleight of Hand
+0.047 Desperate Ritual
+0.047 Manamorphose
+0.045 Gifts Ungiven
+0.045 Pyretic Ritual
+0.044 Baral, Chief of Compliance
+0.041 Spirebluff Canal
+0.039 Island
+0.036 Steam Vents
+0.034 Remand
+0.032 Goblin Electromancer
+0.032 Lightning Bolt
+0.031 Grapeshot
+0.028 Scalding Tarn
+0.027 Empty the Warrens
+
+
+Archetype 29 
+0.052 Forest
+0.052 Elvish Archdruid
+0.052 Heritage Druid
+0.052 Llanowar Elves
+0.051 Collected Company
+0.051 Nettle Sentinel
+0.051 Dwynen's Elite
+0.051 Elvish Mystic
+0.049 Chord of Calling
+0.042 Ezuri, Renegade Leader
+0.039 Windswept Heath
+0.033 Elvish Visionary
+0.031 Razorverge Thicket
+0.030 Devoted Druid
+0.028 Path to Exile
+0.024 Cavern of Souls
+
+
