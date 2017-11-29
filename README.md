@@ -1,4 +1,4 @@
-# Project Title
+# Notebook for: Finding Magic: The Gathering archetypes with LDA.
 
 A simple jupyter notebook with code and explanations on how to reach the results described in the article [Finding Magic: The Gathering archetypes with Latent Dirichlet Allocation](https://medium.com/@hlynurd/finding-magic-the-gathering-archetypes-with-latent-dirichlet-allocation-729112d324a6). 
 
